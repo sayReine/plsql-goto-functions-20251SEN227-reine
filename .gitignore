@@ -1,0 +1,15 @@
+# Logs and spool output
+*.log
+*.lst
+spool*.txt
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Oracle / Docker local files
+*.dmp
+*.bak
+.env
